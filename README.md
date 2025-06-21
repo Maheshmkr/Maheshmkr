@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maheshkumar r.
+- 👋 Hi, I’m @MAHESHKUMAR r.
 - 👀 I’m interested in developing web page.
 - 🌱 I’m currently learning html and css.
 - 📫 How to reach me-maheshkumar.cs23@bitsathy.ac.in.
